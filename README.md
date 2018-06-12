@@ -1,6 +1,6 @@
 # GROUP-12-RECESS-2018
 This repository is for recess work 2018.
-## GROUP MEMBERS DETAILS
+#### GROUP MEMBERS DETAILS (CONTRIBUTORS)
 
 | NAMES         | REGISTRATION No.| STUDENT NO.|EMAIL  |
 | ------------- |:-------------:| -----:| -----:|
